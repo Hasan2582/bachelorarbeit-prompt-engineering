@@ -35,11 +35,14 @@ Voraussetzungen: Python, Ollama sowie `requests`, `datasets`, `pandas` und `matp
 Hauptversuch:
 ```bash
 python main_pipeline.py
+```
 
 Sensitivitätsversuch:
 ```bash
 python run_sensitivity.py mmlu_pro
 python run_sensitivity.py gsm8k
+```
+
 
 Auswertung:
 ```bash
@@ -47,3 +50,4 @@ python analyze_results.py
 python analyze_sensitivity.py
 python audit_sensitivity.py
 python prepare_thesis_results.py
+```
