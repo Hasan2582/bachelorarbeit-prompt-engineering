@@ -1,0 +1,33 @@
+{
+  "config": {
+    "models": [
+      "llama3:8b",
+      "phi3:mini"
+    ],
+    "strategies": [
+      "zero_shot",
+      "one_shot",
+      "few_shot",
+      "cot",
+      "cod",
+      "role_prompting"
+    ],
+    "temperature": 0.0
+  },
+  "sha256_inputs": {
+    "data/mmlu_pro_samples50.jsonl": "84ba4d4b7911dea39f8fc999fbf27f98b7db7a84da00d1160163e19408522a38",
+    "data/gsm8k_samples50.jsonl": "212c1f7854ea7b66f92724fcc12d28a15ce16f3b1de2453e4ea55bff46d7cc2a",
+    "prompt_templates/mmlu_pro/zero_shot.txt": "c03ac2e6f6f83fa0cf972bbe550709feb3d3e34b1523230cef01d60de3fecad4",
+    "prompt_templates/mmlu_pro/one_shot.txt": "bda94fd6b659dfc38b1c328f592241e7f222444106eecaee9233a2c3df82bed6",
+    "prompt_templates/mmlu_pro/few_shot.txt": "2143fbb051b2bfdedb0e82de0e29aab8125c80ea7023db79cabee25910af7e68",
+    "prompt_templates/mmlu_pro/cot.txt": "5d1902e849489bdefee04e79a15f1e09eef1ad2f62489e04597ca40b3357bc1f",
+    "prompt_templates/mmlu_pro/cod.txt": "78faee77dd2e7873d4b0a4ea28a143bdd37c3b4bb254b3d9c41c4f5d212094b4",
+    "prompt_templates/mmlu_pro/role_prompting.txt": "7253a16268e0d7ecde7bf37f5ea323c3d6719e7311406b0e525aca5e63a4d6d7",
+    "prompt_templates/gsm8k/zero_shot.txt": "b2d567d3d2e2ab74a0b1056ac7f2ff43905e636e2a53168ab18f05254ab3e522",
+    "prompt_templates/gsm8k/one_shot.txt": "9df4933c218bc673ab1a5cdd8b8039dc67abe25d1c53c5b0c84aae7690475bb0",
+    "prompt_templates/gsm8k/few_shot.txt": "68b99e607a34b3b113f18a1a7a0f4eb087c8095cf7f4b462e4d81368cd2c8964",
+    "prompt_templates/gsm8k/cot.txt": "e78ecd2d9d47f04ccd0f5c8c4a3d9022abbb1c85835ab9b2ab0a9db880bcd001",
+    "prompt_templates/gsm8k/cod.txt": "2e619214b03937eb3025125f6c512f7cb22bff8b11103da9c44a69c7b6ee2424",
+    "prompt_templates/gsm8k/role_prompting.txt": "b2155fac303769bcd74f1b246bcdb21f8426daf1daa8010aaa01662afa723030"
+  }
+}

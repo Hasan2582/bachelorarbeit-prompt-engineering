@@ -1,0 +1,34 @@
+{
+  "config": {
+    "benchmark": "mmlu_pro",
+    "models": [
+      "llama3:8b",
+      "phi3:mini"
+    ],
+    "strategies": [
+      "zero_shot",
+      "few_shot"
+    ],
+    "variants": [
+      "baseline",
+      "character",
+      "word",
+      "sentence",
+      "semantic"
+    ],
+    "temperature": 0.0
+  },
+  "sha256_inputs": {
+    "data/mmlu_pro_samples50.jsonl": "84ba4d4b7911dea39f8fc999fbf27f98b7db7a84da00d1160163e19408522a38",
+    "prompt_templates/mmlu_pro/sensitivity/zero_shot/baseline.txt": "c03ac2e6f6f83fa0cf972bbe550709feb3d3e34b1523230cef01d60de3fecad4",
+    "prompt_templates/mmlu_pro/sensitivity/zero_shot/character.txt": "f093ed57f085b1de09d7729617b6d42939303b987c9094e39b010d3816769063",
+    "prompt_templates/mmlu_pro/sensitivity/zero_shot/word.txt": "6d457478ee285e9db003bc048432440b127c16e8ce7064a72ff7368ba3629ffd",
+    "prompt_templates/mmlu_pro/sensitivity/zero_shot/sentence.txt": "4c78ab49c95eb057b808928fdea25f3903ac62bcfeb87b10638f48561a23c49f",
+    "prompt_templates/mmlu_pro/sensitivity/zero_shot/semantic.txt": "41f64e550a1be316bf938f30bb976feae5324d425b76b6da96ff5044d82a2b7e",
+    "prompt_templates/mmlu_pro/sensitivity/few_shot/baseline.txt": "2143fbb051b2bfdedb0e82de0e29aab8125c80ea7023db79cabee25910af7e68",
+    "prompt_templates/mmlu_pro/sensitivity/few_shot/character.txt": "073dfbdc72fbd32d7803fdcb316d85eaa1a3fec03f658a9df110ceb971eae2c1",
+    "prompt_templates/mmlu_pro/sensitivity/few_shot/word.txt": "21cfcbf03c932413570953ca9cb0af3ef8c90e89a2fd9449b57b1f133b68d3d2",
+    "prompt_templates/mmlu_pro/sensitivity/few_shot/sentence.txt": "fe1a1bdec150b46f9ee3cca28caefbf7db7d99bb77d0ae1697d56b18196d9494",
+    "prompt_templates/mmlu_pro/sensitivity/few_shot/semantic.txt": "761204581c4ef93b0b20da86ac55aaa270ba2d96c4497d3c3e45ffef295b9ecf"
+  }
+}
