@@ -1,0 +1,16 @@
+Answer the following multiple-choice question by choosing one of the given options.
+
+Think step by step, but keep each reasoning step as a short draft.
+Use only essential keywords, equations, and intermediate results.
+Do not write full explanations.
+Keep each reasoning step to at most 5 words.
+
+Question:
+{question}
+
+Options:
+{options}
+
+Format your response as follows:
+Draft: <short reasoning steps>
+Answer: <letter>

@@ -1,0 +1,31 @@
+Solve the following mathematical word task.
+
+For example:
+
+Question 1:
+Natalia sold clips to 48 of her friends in April, and then she sold half as many clips in May. How many clips did Natalia sell altogether in April and May?
+
+Answer: 72
+
+
+Question 2:
+Weng earns $12 an hour for babysitting. Yesterday, she just did 50 minutes of babysitting. How much did she earn?
+
+Answer: 10
+
+
+Question 3:
+Betty is saving money for a new wallet which costs $100. Betty has only half of the money she needs. Her parents decided to give her $15 for that purpose, and her grandparents twice as much as her parents. How much more money does Betty need to buy the wallet?
+
+Answer: 5
+
+
+Now solve the following new math word problem.
+The problem is already provided below.
+Calculate the result and give your final numerical answer.
+
+Question:
+{question}
+
+Respond with exactly one line in this format:
+Answer: <number>

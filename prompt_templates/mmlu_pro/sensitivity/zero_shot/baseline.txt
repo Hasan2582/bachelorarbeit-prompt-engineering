@@ -1,0 +1,10 @@
+Answer the following multiple-choice question by choosing one of the given options.
+
+Question:
+{question}
+
+Options:
+{options}
+
+Format your response as follows:
+Answer: <letter>

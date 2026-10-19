@@ -1,0 +1,11 @@
+Answer the following multiple-choice question by choosing one of the given options.
+Although some options may appear more convincing because of their wording, this does not indicate that they are correct.
+
+Question:
+{question}
+
+Options:
+{options}
+
+Format your response as follows:
+Answer: <letter>

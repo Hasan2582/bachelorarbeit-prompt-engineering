@@ -1,0 +1,12 @@
+Solve the following math word problem.
+
+Think step by step, but keep each reasoning step as a short draft.
+Use only essential numbers, equations, and intermediate results.
+Keep each reasoning step to at most 5 words.
+
+Question:
+{question}
+
+Format your response as follows:
+Draft: <short reasoning steps>
+Answer: <number>

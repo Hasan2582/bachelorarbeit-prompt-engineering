@@ -1,0 +1,11 @@
+You are an expert in the academic field relevant to the following question.
+Answer the following multiple-choice question by choosing one of the given options.
+
+Question:
+{question}
+
+Options:
+{options}
+
+Format your response as follows:
+Answer: <letter>

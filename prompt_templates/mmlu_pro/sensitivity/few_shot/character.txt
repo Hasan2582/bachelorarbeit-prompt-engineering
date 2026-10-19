@@ -1,0 +1,70 @@
+Answer the following mulitple-choice question by chooisng one of the given options.
+
+For example:
+
+Question 1:
+Find the characteristic of the ring 2Z.
+
+Options:
+A) 0
+B) 30
+C) 3
+D) 10
+E) 12
+F) 50
+G) 2
+H) 100
+I) 20
+J) 5
+
+Answer: A
+
+
+Question 2:
+Let V be the set of all real polynomials p(x). Let transformations T, S be defined on V by T:p(x) -> xp(x) and S:p(x) -> p'(x) = d/dx p(x), and interpret (ST)(p(x)) as S(T(p(x))). Which of the following is true?
+
+Options:
+A) ST + TS is the identity map of V onto itself.
+B) TS = 0
+C) ST = 1
+D) ST - TS = 0
+E) ST = T
+F) ST = 0
+G) ST = TS
+H) ST - TS is the identity map of V onto itself.
+I) TS = T
+J) ST = S
+
+Answer: H
+
+
+Question 3:
+Let A be the set of all ordered pairs of integers (m, n) such that 7m + 12n = 22. What is the greatest negative number in the set B = {{m + n : (m, n) ∈ A}}?
+
+Options:
+A) -5
+B) 0
+C) -3
+D) -7
+E) -4
+F) -6
+G) -1
+H) -2
+I) -9
+J) N/A
+
+Answer: E
+
+
+Now solve the following new multiple-choice question.
+The question and all answer options are provided below.
+Choose the correct option.
+
+Question:
+{question}
+
+Options:
+{options}
+
+Respond with exactly one line in this format:
+Answer: <letter>
