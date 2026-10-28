@@ -1,0 +1,10 @@
+Solve the following math word problem.
+
+Think step by step before giving the final answer.
+
+Question:
+{question}
+
+Format your response as follows:
+Reasoning: <your step-by-step reasoning>
+Answer: <number>

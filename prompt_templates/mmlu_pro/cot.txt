@@ -1,0 +1,13 @@
+Answer the following multiple-choice question by choosing one of the given options.
+
+Think step by step before choosing the correct answer.
+
+Question:
+{question}
+
+Options:
+{options}
+
+Format your response as follows:
+Reasoning: <your step-by-step reasoning>
+Answer: <letter>

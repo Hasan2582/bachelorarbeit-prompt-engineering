@@ -1,0 +1,10 @@
+Read the question and all available answer choices. Determine which choice correctly answers the question and return the corresponding letter.
+
+Question:
+{question}
+
+Options:
+{options}
+
+Format your response as follows:
+Answer: <letter>

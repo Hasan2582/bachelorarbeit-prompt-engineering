@@ -1,0 +1,33 @@
+Answer the following multiple-choice question by choosing one of the given options.
+
+For example:
+
+Question:
+Find the characteristic of the ring 2Z.
+
+Options:
+A) 0
+B) 30
+C) 3
+D) 10
+E) 12
+F) 50
+G) 2
+H) 100
+I) 20
+J) 5
+
+Answer: A
+
+Now solve the following new multiple-choice question.
+The question and all answer options are provided below.
+Choose the correct option.
+
+Question:
+{question}
+
+Options:
+{options}
+
+Respond with exactly one line in this format:
+Answer: <letter>

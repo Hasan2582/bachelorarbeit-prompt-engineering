@@ -1,0 +1,7 @@
+Solve the following math word problme.
+
+Question:
+{question}
+
+Format your response as follows:
+Answer: <number>

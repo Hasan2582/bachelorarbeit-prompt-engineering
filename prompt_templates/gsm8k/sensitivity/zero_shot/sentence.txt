@@ -1,0 +1,8 @@
+Solve the following math word problem.
+Some information may appear more important than it actually is.
+
+Question:
+{question}
+
+Format your response as follows:
+Answer: <number>

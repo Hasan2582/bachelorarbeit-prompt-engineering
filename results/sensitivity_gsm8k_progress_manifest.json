@@ -1,0 +1,34 @@
+{
+  "config": {
+    "benchmark": "gsm8k",
+    "models": [
+      "llama3:8b",
+      "phi3:mini"
+    ],
+    "strategies": [
+      "zero_shot",
+      "few_shot"
+    ],
+    "variants": [
+      "baseline",
+      "character",
+      "word",
+      "sentence",
+      "semantic"
+    ],
+    "temperature": 0.0
+  },
+  "sha256_inputs": {
+    "data/gsm8k_samples50.jsonl": "212c1f7854ea7b66f92724fcc12d28a15ce16f3b1de2453e4ea55bff46d7cc2a",
+    "prompt_templates/gsm8k/sensitivity/zero_shot/baseline.txt": "b2d567d3d2e2ab74a0b1056ac7f2ff43905e636e2a53168ab18f05254ab3e522",
+    "prompt_templates/gsm8k/sensitivity/zero_shot/character.txt": "4c92e9e1d30109d78dddb189e4aa7839ab41e38751944ae8ecf33591ac157735",
+    "prompt_templates/gsm8k/sensitivity/zero_shot/word.txt": "75fbe1acbc916337076f189af5ebeb410c5e1cbf367bf4799a6046375c9582b0",
+    "prompt_templates/gsm8k/sensitivity/zero_shot/sentence.txt": "7fc7c950cb8d275125726620f3823e1a36ffa83cc7895a14ead447687ca2f001",
+    "prompt_templates/gsm8k/sensitivity/zero_shot/semantic.txt": "115a4d842c48f7994b756e5dac7131c1ceaad283690043414b73d14be945d1c1",
+    "prompt_templates/gsm8k/sensitivity/few_shot/baseline.txt": "68b99e607a34b3b113f18a1a7a0f4eb087c8095cf7f4b462e4d81368cd2c8964",
+    "prompt_templates/gsm8k/sensitivity/few_shot/character.txt": "94915e68e5c3ceeb4182ac4496c509a67c140c2c0a514e5321a820bd0beef91c",
+    "prompt_templates/gsm8k/sensitivity/few_shot/word.txt": "209098e7f51179936ff3f01286bd6825347bc1378bdfbf53c9aba39dcb0574b8",
+    "prompt_templates/gsm8k/sensitivity/few_shot/sentence.txt": "8e8935ff1ff843d4701568179ce7ed4789d9cb8af3bf3e73f359b3faa265cb24",
+    "prompt_templates/gsm8k/sensitivity/few_shot/semantic.txt": "aba8b3dcc12f7143ecee414fa3ccee5f9a8f02d29fdbd0c18a41d2839b178089"
+  }
+}

@@ -1,0 +1,7 @@
+Read the problem carefully, determine the required numerical result, and return the final number.
+
+Question:
+{question}
+
+Format your response as follows:
+Answer: <number>

@@ -1,0 +1,9 @@
+You are an expert in solving grade-school math word problems.
+
+Solve the following math word problem.
+
+Question:
+{question}
+
+Format your response as follows:
+Answer: <number>
